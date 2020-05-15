@@ -1,0 +1,46 @@
+body{
+	font-family: "Open Sans", arial, x-locale-body, sans-serif;
+	background-color: #f8f9fb;
+}
+.te {
+	text-align: center;
+}
+.main {
+	width:  1500px;
+	margin: auto;
+	background-color: white;
+	margin-top: 0%;
+}
+.unmain {
+	width:  1200px;
+	margin: auto;
+}
+.kod {
+	width: 750px;
+	background-color: #f5f5f5;
+	border: 1px solid #666666;
+	color: green;
+}
+.kot {
+	margin: 20px;
+}
+.spoiler_body {
+	display:none; 
+	cursor:pointer;
+}
+a.button {
+  display: inline-block;
+  background: #2196f3;
+  color: #fff;
+  padding: 12px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+}
+.knopka {
+	margin: 24px;
+	text-align: center;
+}
